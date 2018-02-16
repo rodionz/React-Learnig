@@ -1,0 +1,1237 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/ansi-html
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/babylon
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/browserslist
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/cssesc
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/csso
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/detect
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/detect-port
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/errno
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/escodegen
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/esgenerate
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/eslint
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/esparse
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/esvalidate
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/handlebars
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/he
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/html-minifier
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/internal-ip
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/jest
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/jest-runtime
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/js-yaml
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/jsesc
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/json5
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/loose-envify
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/miller-rabin
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/mime
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/mkdirp
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/multicast-dns
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/rc
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/react-scripts
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/regjsparser
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/rimraf
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/sane
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/semver
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/sha.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/sshpk-conv
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/sshpk-sign
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/sshpk-verify
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/strip-indent
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/svgo
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/sw-precache
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/uglifyjs
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/uuid
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/webpack
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/webpack-dev-server
+#	new file:   lists-conditionals--assignment-problem/node_modules/.bin/which
+#	new file:   lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/a1709baf5948d1fabba0d13f2dc2a1f6eb701806.json.gz
+#	new file:   lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/d2ac65987418fd613936941c60803bcc30d6498b.json.gz
+#	new file:   lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/fe20754b894f2c5246b522dd3349e55057d9970f.json.gz
+#	new file:   lists-conditionals--assignment-problem/node_modules/abab/CHANGELOG.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/abab/LICENSE.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/abab/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/abab/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/abab/lib/atob.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/abab/lib/btoa.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/abab/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/accepts/HISTORY.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/accepts/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/accepts/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/accepts/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/accepts/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/CHANGELOG.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/lib/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/lib/inject.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/.bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/.npmignore
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/AUTHORS
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/CHANGELOG.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/dist/.keep
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/dist/acorn.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/dist/acorn.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/dist/acorn_loose.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/dist/acorn_loose.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/dist/walk.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/dist/walk.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/bin/acorn.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/expression.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/identifier.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/location.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/locutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/loose/expression.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/loose/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/loose/parseutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/loose/state.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/loose/statement.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/loose/tokenize.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/lval.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/node.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/options.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/parseutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/state.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/statement.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/tokencontext.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/tokenize.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/tokentype.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/util.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/walk/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/node_modules/acorn/src/whitespace.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/src/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-dynamic-import/src/inject.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/.bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/.npmignore
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/AUTHORS
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/CHANGELOG.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/dist/.keep
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/dist/acorn.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/dist/acorn.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/dist/acorn_loose.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/dist/acorn_loose.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/dist/walk.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/dist/walk.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/bin/acorn.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/expression.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/identifier.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/location.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/locutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/loose/expression.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/loose/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/loose/parseutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/loose/state.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/loose/statement.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/loose/tokenize.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/lval.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/node.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/options.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/parseutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/state.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/statement.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/tokencontext.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/tokenize.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/tokentype.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/util.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/walk/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/node_modules/acorn/src/whitespace.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-globals/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/inject.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/.bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/.editorconfig
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/.gitattributes
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/.npmignore
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/.tern-project
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/.travis.yml
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/AUTHORS
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/CHANGELOG.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/bin/generate-identifier-regex.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/bin/update_authors.sh
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/dist/.keep
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/dist/acorn.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/dist/acorn.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/dist/acorn_loose.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/dist/acorn_loose.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/dist/walk.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/dist/walk.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/rollup/config.bin.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/rollup/config.loose.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/rollup/config.main.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/rollup/config.walk.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/bin/acorn.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/expression.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/identifier.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/location.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/locutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/loose/expression.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/loose/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/loose/parseutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/loose/state.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/loose/statement.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/loose/tokenize.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/lval.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/node.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/options.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/parseutil.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/state.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/statement.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/tokencontext.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/tokenize.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/tokentype.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/util.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/walk/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/node_modules/acorn/src/whitespace.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn-jsx/xhtml.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/AUTHORS
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/CHANGELOG.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/bin/acorn
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/dist/.keep
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/dist/acorn.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/dist/acorn.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/dist/acorn_loose.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/dist/acorn_loose.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/dist/walk.es.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/dist/walk.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/acorn/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/address/History.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/address/LICENSE.txt
+#	new file:   lists-conditionals--assignment-problem/node_modules/address/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/address/lib/address.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/address/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/LICENSE
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/_formatLimit.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/deepProperties.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/deepRequired.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dot/_formatLimit.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dot/patternRequired.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dot/switch.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dotjs/README.md
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dotjs/_formatLimit.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dotjs/patternRequired.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dotjs/switch.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/dynamicDefaults.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/formatMaximum.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/formatMinimum.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/if.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/instanceof.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/patternRequired.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/prohibited.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/propertyNames.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/range.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/regexp.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/switch.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/keywords/typeof.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv-keywords/package.json
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/.tonic_example.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/dist/ajv.bundle.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/dist/ajv.min.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/dist/ajv.min.js.map
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/dist/nodent.min.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/dist/regenerator.min.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/$data.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/ajv.d.ts
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/ajv.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/cache.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/_rules.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/async.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/equal.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/error_classes.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/formats.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/index.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/resolve.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/rules.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/schema_obj.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/ucs2length.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/compile/util.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/_limit.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/_limitItems.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/_limitLength.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/_limitProperties.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/allOf.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/anyOf.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/coerce.def
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/const.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/contains.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/custom.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/defaults.def
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/definitions.def
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/dependencies.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/enum.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/errors.def
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/format.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/items.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/missing.def
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/multipleOf.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/not.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/oneOf.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/pattern.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/properties.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/propertyNames.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/ref.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/required.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/uniqueItems.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dot/validate.jst
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/allOf.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/anyOf.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/const.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/contains.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/custom.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/dependencies.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/enum.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/format.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/items.js
+#	new file:   lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/multipleOf.js
+#
+# Changes not staged for commit:
+#	modified:   base-syntax--assignment-problem/src/App.js
+#	modified:   lists-conditionals--assignment-problem/package-lock.json
+#	modified:   lists-conditionals--assignment-problem/src/App.js
+#
+# Untracked files:
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/03039a2af3e08559a20a2bfe01070f45acb369cd.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/1057177f501c8785a69c85cfc79ccb6003126932.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/20c24d47d8b3f3135e205b06ba356a7c6a55d99b.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/2613b2432b8ade630571b93d0d92e586f3e4abf0.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/5cf7758fa4c64ee4316b9a955f00590ed278032f.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/6ab485aea3283c075a257b1879a1f3b83de74f12.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/71091a8f60f64e998198fee7dd71c1f5aeeb909b.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/86f81e364ad14285835d5f2f390448232921e158.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/b550ed82124c1181ba366be2d78cdd4ac0871edb.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/d06ebbda4b8309339bf22e507a7f26b89dc00a83.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/d3f97e3f24f35fc17cd8abc3d26b6a57530bdbf1.json.gz
+#	lists-conditionals--assignment-problem/node_modules/.cache/babel-loader/f94ee2929ee492e89206e5a4e056d0c412441963.json.gz
+#	lists-conditionals--assignment-problem/node_modules/ajv/LICENSE
+#	lists-conditionals--assignment-problem/node_modules/ajv/README.md
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/README.md
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/_limit.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/_limitItems.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/_limitLength.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/_limitProperties.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/not.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/oneOf.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/pattern.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/properties.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/propertyNames.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/ref.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/required.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/uniqueItems.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/dotjs/validate.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/keyword.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/patternGroups.js
+#	lists-conditionals--assignment-problem/node_modules/ajv/lib/refs/
+#	lists-conditionals--assignment-problem/node_modules/ajv/package.json
+#	lists-conditionals--assignment-problem/node_modules/ajv/scripts/
+#	lists-conditionals--assignment-problem/node_modules/align-text/
+#	lists-conditionals--assignment-problem/node_modules/alphanum-sort/
+#	lists-conditionals--assignment-problem/node_modules/amdefine/
+#	lists-conditionals--assignment-problem/node_modules/anser/
+#	lists-conditionals--assignment-problem/node_modules/ansi-align/
+#	lists-conditionals--assignment-problem/node_modules/ansi-escapes/
+#	lists-conditionals--assignment-problem/node_modules/ansi-html/
+#	lists-conditionals--assignment-problem/node_modules/ansi-regex/
+#	lists-conditionals--assignment-problem/node_modules/ansi-styles/
+#	lists-conditionals--assignment-problem/node_modules/anymatch/
+#	lists-conditionals--assignment-problem/node_modules/append-transform/
+#	lists-conditionals--assignment-problem/node_modules/argparse/
+#	lists-conditionals--assignment-problem/node_modules/aria-query/
+#	lists-conditionals--assignment-problem/node_modules/arr-diff/
+#	lists-conditionals--assignment-problem/node_modules/arr-flatten/
+#	lists-conditionals--assignment-problem/node_modules/array-equal/
+#	lists-conditionals--assignment-problem/node_modules/array-filter/
+#	lists-conditionals--assignment-problem/node_modules/array-find-index/
+#	lists-conditionals--assignment-problem/node_modules/array-flatten/
+#	lists-conditionals--assignment-problem/node_modules/array-includes/
+#	lists-conditionals--assignment-problem/node_modules/array-map/
+#	lists-conditionals--assignment-problem/node_modules/array-reduce/
+#	lists-conditionals--assignment-problem/node_modules/array-union/
+#	lists-conditionals--assignment-problem/node_modules/array-uniq/
+#	lists-conditionals--assignment-problem/node_modules/array-unique/
+#	lists-conditionals--assignment-problem/node_modules/arrify/
+#	lists-conditionals--assignment-problem/node_modules/asap/
+#	lists-conditionals--assignment-problem/node_modules/asn1.js/
+#	lists-conditionals--assignment-problem/node_modules/asn1/
+#	lists-conditionals--assignment-problem/node_modules/assert-plus/
+#	lists-conditionals--assignment-problem/node_modules/assert/
+#	lists-conditionals--assignment-problem/node_modules/ast-types-flow/
+#	lists-conditionals--assignment-problem/node_modules/async-each/
+#	lists-conditionals--assignment-problem/node_modules/async/
+#	lists-conditionals--assignment-problem/node_modules/asynckit/
+#	lists-conditionals--assignment-problem/node_modules/autoprefixer/
+#	lists-conditionals--assignment-problem/node_modules/aws-sign2/
+#	lists-conditionals--assignment-problem/node_modules/aws4/
+#	lists-conditionals--assignment-problem/node_modules/axobject-query/
+#	lists-conditionals--assignment-problem/node_modules/babel-code-frame/
+#	lists-conditionals--assignment-problem/node_modules/babel-core/
+#	lists-conditionals--assignment-problem/node_modules/babel-eslint/
+#	lists-conditionals--assignment-problem/node_modules/babel-generator/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-builder-binary-assignment-operator-visitor/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-builder-react-jsx/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-call-delegate/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-define-map/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-explode-assignable-expression/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-function-name/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-get-function-arity/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-hoist-variables/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-optimise-call-expression/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-regex/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-remap-async-to-generator/
+#	lists-conditionals--assignment-problem/node_modules/babel-helper-replace-supers/
+#	lists-conditionals--assignment-problem/node_modules/babel-helpers/
+#	lists-conditionals--assignment-problem/node_modules/babel-jest/
+#	lists-conditionals--assignment-problem/node_modules/babel-loader/
+#	lists-conditionals--assignment-problem/node_modules/babel-messages/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-check-es2015-constants/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-dynamic-import-node/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-istanbul/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-jest-hoist/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-async-functions/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-class-properties/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-dynamic-import/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-exponentiation-operator/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-flow/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-jsx/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-object-rest-spread/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-syntax-trailing-function-commas/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-async-to-generator/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-class-properties/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-arrow-functions/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-block-scoped-functions/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-block-scoping/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-classes/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-computed-properties/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-destructuring/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-duplicate-keys/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-for-of/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-function-name/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-literals/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-modules-amd/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-modules-commonjs/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-modules-systemjs/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-modules-umd/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-object-super/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-parameters/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-shorthand-properties/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-spread/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-sticky-regex/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-template-literals/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-typeof-symbol/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-es2015-unicode-regex/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-exponentiation-operator/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-flow-strip-types/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-object-rest-spread/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-react-constant-elements/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-react-display-name/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-react-jsx-self/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-react-jsx-source/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-react-jsx/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-regenerator/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-runtime/
+#	lists-conditionals--assignment-problem/node_modules/babel-plugin-transform-strict-mode/
+#	lists-conditionals--assignment-problem/node_modules/babel-preset-env/
+#	lists-conditionals--assignment-problem/node_modules/babel-preset-flow/
+#	lists-conditionals--assignment-problem/node_modules/babel-preset-jest/
+#	lists-conditionals--assignment-problem/node_modules/babel-preset-react-app/
+#	lists-conditionals--assignment-problem/node_modules/babel-preset-react/
+#	lists-conditionals--assignment-problem/node_modules/babel-register/
+#	lists-conditionals--assignment-problem/node_modules/babel-runtime/
+#	lists-conditionals--assignment-problem/node_modules/babel-template/
+#	lists-conditionals--assignment-problem/node_modules/babel-traverse/
+#	lists-conditionals--assignment-problem/node_modules/babel-types/
+#	lists-conditionals--assignment-problem/node_modules/babylon/
+#	lists-conditionals--assignment-problem/node_modules/balanced-match/
+#	lists-conditionals--assignment-problem/node_modules/base64-js/
+#	lists-conditionals--assignment-problem/node_modules/batch/
+#	lists-conditionals--assignment-problem/node_modules/bcrypt-pbkdf/
+#	lists-conditionals--assignment-problem/node_modules/big.js/
+#	lists-conditionals--assignment-problem/node_modules/binary-extensions/
+#	lists-conditionals--assignment-problem/node_modules/bluebird/
+#	lists-conditionals--assignment-problem/node_modules/bn.js/
+#	lists-conditionals--assignment-problem/node_modules/bonjour/
+#	lists-conditionals--assignment-problem/node_modules/boolbase/
+#	lists-conditionals--assignment-problem/node_modules/boom/
+#	lists-conditionals--assignment-problem/node_modules/boxen/
+#	lists-conditionals--assignment-problem/node_modules/brace-expansion/
+#	lists-conditionals--assignment-problem/node_modules/braces/
+#	lists-conditionals--assignment-problem/node_modules/brorand/
+#	lists-conditionals--assignment-problem/node_modules/browser-resolve/
+#	lists-conditionals--assignment-problem/node_modules/browserify-aes/
+#	lists-conditionals--assignment-problem/node_modules/browserify-cipher/
+#	lists-conditionals--assignment-problem/node_modules/browserify-des/
+#	lists-conditionals--assignment-problem/node_modules/browserify-rsa/
+#	lists-conditionals--assignment-problem/node_modules/browserify-sign/
+#	lists-conditionals--assignment-problem/node_modules/browserify-zlib/
+#	lists-conditionals--assignment-problem/node_modules/browserslist/
+#	lists-conditionals--assignment-problem/node_modules/bser/
+#	lists-conditionals--assignment-problem/node_modules/buffer-indexof/
+#	lists-conditionals--assignment-problem/node_modules/buffer-xor/
+#	lists-conditionals--assignment-problem/node_modules/buffer/
+#	lists-conditionals--assignment-problem/node_modules/builtin-modules/
+#	lists-conditionals--assignment-problem/node_modules/builtin-status-codes/
+#	lists-conditionals--assignment-problem/node_modules/bytes/
+#	lists-conditionals--assignment-problem/node_modules/caller-path/
+#	lists-conditionals--assignment-problem/node_modules/callsites/
+#	lists-conditionals--assignment-problem/node_modules/camel-case/
+#	lists-conditionals--assignment-problem/node_modules/camelcase-keys/
+#	lists-conditionals--assignment-problem/node_modules/camelcase/
+#	lists-conditionals--assignment-problem/node_modules/caniuse-api/
+#	lists-conditionals--assignment-problem/node_modules/caniuse-db/
+#	lists-conditionals--assignment-problem/node_modules/caniuse-lite/
+#	lists-conditionals--assignment-problem/node_modules/capture-stack-trace/
+#	lists-conditionals--assignment-problem/node_modules/case-sensitive-paths-webpack-plugin/
+#	lists-conditionals--assignment-problem/node_modules/caseless/
+#	lists-conditionals--assignment-problem/node_modules/center-align/
+#	lists-conditionals--assignment-problem/node_modules/chalk/
+#	lists-conditionals--assignment-problem/node_modules/chokidar/
+#	lists-conditionals--assignment-problem/node_modules/ci-info/
+#	lists-conditionals--assignment-problem/node_modules/cipher-base/
+#	lists-conditionals--assignment-problem/node_modules/circular-json/
+#	lists-conditionals--assignment-problem/node_modules/clap/
+#	lists-conditionals--assignment-problem/node_modules/clean-css/
+#	lists-conditionals--assignment-problem/node_modules/cli-boxes/
+#	lists-conditionals--assignment-problem/node_modules/cli-cursor/
+#	lists-conditionals--assignment-problem/node_modules/cli-width/
+#	lists-conditionals--assignment-problem/node_modules/cliui/
+#	lists-conditionals--assignment-problem/node_modules/clone/
+#	lists-conditionals--assignment-problem/node_modules/co/
+#	lists-conditionals--assignment-problem/node_modules/coa/
+#	lists-conditionals--assignment-problem/node_modules/code-point-at/
+#	lists-conditionals--assignment-problem/node_modules/color-convert/
+#	lists-conditionals--assignment-problem/node_modules/color-name/
+#	lists-conditionals--assignment-problem/node_modules/color-string/
+#	lists-conditionals--assignment-problem/node_modules/color/
+#	lists-conditionals--assignment-problem/node_modules/colormin/
+#	lists-conditionals--assignment-problem/node_modules/colors/
+#	lists-conditionals--assignment-problem/node_modules/combined-stream/
+#	lists-conditionals--assignment-problem/node_modules/commander/
+#	lists-conditionals--assignment-problem/node_modules/commondir/
+#	lists-conditionals--assignment-problem/node_modules/compressible/
+#	lists-conditionals--assignment-problem/node_modules/compression/
+#	lists-conditionals--assignment-problem/node_modules/concat-map/
+#	lists-conditionals--assignment-problem/node_modules/concat-stream/
+#	lists-conditionals--assignment-problem/node_modules/configstore/
+#	lists-conditionals--assignment-problem/node_modules/connect-history-api-fallback/
+#	lists-conditionals--assignment-problem/node_modules/console-browserify/
+#	lists-conditionals--assignment-problem/node_modules/constants-browserify/
+#	lists-conditionals--assignment-problem/node_modules/contains-path/
+#	lists-conditionals--assignment-problem/node_modules/content-disposition/
+#	lists-conditionals--assignment-problem/node_modules/content-type-parser/
+#	lists-conditionals--assignment-problem/node_modules/content-type/
+#	lists-conditionals--assignment-problem/node_modules/convert-source-map/
+#	lists-conditionals--assignment-problem/node_modules/cookie-signature/
+#	lists-conditionals--assignment-problem/node_modules/cookie/
+#	lists-conditionals--assignment-problem/node_modules/core-js/
+#	lists-conditionals--assignment-problem/node_modules/core-util-is/
+#	lists-conditionals--assignment-problem/node_modules/cosmiconfig/
+#	lists-conditionals--assignment-problem/node_modules/create-ecdh/
+#	lists-conditionals--assignment-problem/node_modules/create-error-class/
+#	lists-conditionals--assignment-problem/node_modules/create-hash/
+#	lists-conditionals--assignment-problem/node_modules/create-hmac/
+#	lists-conditionals--assignment-problem/node_modules/create-react-class/
+#	lists-conditionals--assignment-problem/node_modules/cross-spawn/
+#	lists-conditionals--assignment-problem/node_modules/cryptiles/
+#	lists-conditionals--assignment-problem/node_modules/crypto-browserify/
+#	lists-conditionals--assignment-problem/node_modules/css-color-names/
+#	lists-conditionals--assignment-problem/node_modules/css-loader/
+#	lists-conditionals--assignment-problem/node_modules/css-select/
+#	lists-conditionals--assignment-problem/node_modules/css-selector-tokenizer/
+#	lists-conditionals--assignment-problem/node_modules/css-what/
+#	lists-conditionals--assignment-problem/node_modules/cssesc/
+#	lists-conditionals--assignment-problem/node_modules/cssnano/
+#	lists-conditionals--assignment-problem/node_modules/csso/
+#	lists-conditionals--assignment-problem/node_modules/cssom/
+#	lists-conditionals--assignment-problem/node_modules/cssstyle/
+#	lists-conditionals--assignment-problem/node_modules/currently-unhandled/
+#	lists-conditionals--assignment-problem/node_modules/d/
+#	lists-conditionals--assignment-problem/node_modules/damerau-levenshtein/
+#	lists-conditionals--assignment-problem/node_modules/dashdash/
+#	lists-conditionals--assignment-problem/node_modules/date-now/
+#	lists-conditionals--assignment-problem/node_modules/debug/
+#	lists-conditionals--assignment-problem/node_modules/decamelize/
+#	lists-conditionals--assignment-problem/node_modules/deep-equal/
+#	lists-conditionals--assignment-problem/node_modules/deep-extend/
+#	lists-conditionals--assignment-problem/node_modules/deep-is/
+#	lists-conditionals--assignment-problem/node_modules/default-require-extensions/
+#	lists-conditionals--assignment-problem/node_modules/define-properties/
+#	lists-conditionals--assignment-problem/node_modules/defined/
+#	lists-conditionals--assignment-problem/node_modules/del/
+#	lists-conditionals--assignment-problem/node_modules/delayed-stream/
+#	lists-conditionals--assignment-problem/node_modules/depd/
+#	lists-conditionals--assignment-problem/node_modules/des.js/
+#	lists-conditionals--assignment-problem/node_modules/destroy/
+#	lists-conditionals--assignment-problem/node_modules/detect-indent/
+#	lists-conditionals--assignment-problem/node_modules/detect-node/
+#	lists-conditionals--assignment-problem/node_modules/detect-port-alt/
+#	lists-conditionals--assignment-problem/node_modules/diff/
+#	lists-conditionals--assignment-problem/node_modules/diffie-hellman/
+#	lists-conditionals--assignment-problem/node_modules/dns-equal/
+#	lists-conditionals--assignment-problem/node_modules/dns-packet/
+#	lists-conditionals--assignment-problem/node_modules/dns-txt/
+#	lists-conditionals--assignment-problem/node_modules/doctrine/
+#	lists-conditionals--assignment-problem/node_modules/dom-converter/
+#	lists-conditionals--assignment-problem/node_modules/dom-serializer/
+#	lists-conditionals--assignment-problem/node_modules/dom-urls/
+#	lists-conditionals--assignment-problem/node_modules/domain-browser/
+#	lists-conditionals--assignment-problem/node_modules/domelementtype/
+#	lists-conditionals--assignment-problem/node_modules/domhandler/
+#	lists-conditionals--assignment-problem/node_modules/domutils/
+#	lists-conditionals--assignment-problem/node_modules/dot-prop/
+#	lists-conditionals--assignment-problem/node_modules/dotenv/
+#	lists-conditionals--assignment-problem/node_modules/duplexer/
+#	lists-conditionals--assignment-problem/node_modules/duplexer2/
+#	lists-conditionals--assignment-problem/node_modules/ecc-jsbn/
+#	lists-conditionals--assignment-problem/node_modules/ee-first/
+#	lists-conditionals--assignment-problem/node_modules/electron-to-chromium/
+#	lists-conditionals--assignment-problem/node_modules/elliptic/
+#	lists-conditionals--assignment-problem/node_modules/emoji-regex/
+#	lists-conditionals--assignment-problem/node_modules/emojis-list/
+#	lists-conditionals--assignment-problem/node_modules/encodeurl/
+#	lists-conditionals--assignment-problem/node_modules/encoding/
+#	lists-conditionals--assignment-problem/node_modules/enhanced-resolve/
+#	lists-conditionals--assignment-problem/node_modules/entities/
+#	lists-conditionals--assignment-problem/node_modules/errno/
+#	lists-conditionals--assignment-problem/node_modules/error-ex/
+#	lists-conditionals--assignment-problem/node_modules/es-abstract/
+#	lists-conditionals--assignment-problem/node_modules/es-to-primitive/
+#	lists-conditionals--assignment-problem/node_modules/es5-ext/
+#	lists-conditionals--assignment-problem/node_modules/es6-iterator/
+#	lists-conditionals--assignment-problem/node_modules/es6-map/
+#	lists-conditionals--assignment-problem/node_modules/es6-promise/
+#	lists-conditionals--assignment-problem/node_modules/es6-set/
+#	lists-conditionals--assignment-problem/node_modules/es6-symbol/
+#	lists-conditionals--assignment-problem/node_modules/es6-weak-map/
+#	lists-conditionals--assignment-problem/node_modules/escape-html/
+#	lists-conditionals--assignment-problem/node_modules/escape-string-regexp/
+#	lists-conditionals--assignment-problem/node_modules/escodegen/
+#	lists-conditionals--assignment-problem/node_modules/escope/
+#	lists-conditionals--assignment-problem/node_modules/eslint-config-react-app/
+#	lists-conditionals--assignment-problem/node_modules/eslint-import-resolver-node/
+#	lists-conditionals--assignment-problem/node_modules/eslint-loader/
+#	lists-conditionals--assignment-problem/node_modules/eslint-module-utils/
+#	lists-conditionals--assignment-problem/node_modules/eslint-plugin-flowtype/
+#	lists-conditionals--assignment-problem/node_modules/eslint-plugin-import/
+#	lists-conditionals--assignment-problem/node_modules/eslint-plugin-jsx-a11y/
+#	lists-conditionals--assignment-problem/node_modules/eslint-plugin-react/
+#	lists-conditionals--assignment-problem/node_modules/eslint-scope/
+#	lists-conditionals--assignment-problem/node_modules/eslint/
+#	lists-conditionals--assignment-problem/node_modules/espree/
+#	lists-conditionals--assignment-problem/node_modules/esprima/
+#	lists-conditionals--assignment-problem/node_modules/esquery/
+#	lists-conditionals--assignment-problem/node_modules/esrecurse/
+#	lists-conditionals--assignment-problem/node_modules/estraverse/
+#	lists-conditionals--assignment-problem/node_modules/esutils/
+#	lists-conditionals--assignment-problem/node_modules/etag/
+#	lists-conditionals--assignment-problem/node_modules/event-emitter/
+#	lists-conditionals--assignment-problem/node_modules/eventemitter3/
+#	lists-conditionals--assignment-problem/node_modules/events/
+#	lists-conditionals--assignment-problem/node_modules/eventsource/
+#	lists-conditionals--assignment-problem/node_modules/evp_bytestokey/
+#	lists-conditionals--assignment-problem/node_modules/exec-sh/
+#	lists-conditionals--assignment-problem/node_modules/execa/
+#	lists-conditionals--assignment-problem/node_modules/expand-brackets/
+#	lists-conditionals--assignment-problem/node_modules/expand-range/
+#	lists-conditionals--assignment-problem/node_modules/expand-tilde/
+#	lists-conditionals--assignment-problem/node_modules/express/
+#	lists-conditionals--assignment-problem/node_modules/extend/
+#	lists-conditionals--assignment-problem/node_modules/external-editor/
+#	lists-conditionals--assignment-problem/node_modules/extglob/
+#	lists-conditionals--assignment-problem/node_modules/extract-text-webpack-plugin/
+#	lists-conditionals--assignment-problem/node_modules/extsprintf/
+#	lists-conditionals--assignment-problem/node_modules/fast-deep-equal/
+#	lists-conditionals--assignment-problem/node_modules/fast-levenshtein/
+#	lists-conditionals--assignment-problem/node_modules/fastparse/
+#	lists-conditionals--assignment-problem/node_modules/faye-websocket/
+#	lists-conditionals--assignment-problem/node_modules/fb-watchman/
+#	lists-conditionals--assignment-problem/node_modules/fbjs/
+#	lists-conditionals--assignment-problem/node_modules/figures/
+#	lists-conditionals--assignment-problem/node_modules/file-entry-cache/
+#	lists-conditionals--assignment-problem/node_modules/file-loader/
+#	lists-conditionals--assignment-problem/node_modules/filename-regex/
+#	lists-conditionals--assignment-problem/node_modules/fileset/
+#	lists-conditionals--assignment-problem/node_modules/filesize/
+#	lists-conditionals--assignment-problem/node_modules/fill-range/
+#	lists-conditionals--assignment-problem/node_modules/filled-array/
+#	lists-conditionals--assignment-problem/node_modules/finalhandler/
+#	lists-conditionals--assignment-problem/node_modules/find-cache-dir/
+#	lists-conditionals--assignment-problem/node_modules/find-up/
+#	lists-conditionals--assignment-problem/node_modules/flat-cache/
+#	lists-conditionals--assignment-problem/node_modules/flatten/
+#	lists-conditionals--assignment-problem/node_modules/for-in/
+#	lists-conditionals--assignment-problem/node_modules/for-own/
+#	lists-conditionals--assignment-problem/node_modules/foreach/
+#	lists-conditionals--assignment-problem/node_modules/forever-agent/
+#	lists-conditionals--assignment-problem/node_modules/form-data/
+#	lists-conditionals--assignment-problem/node_modules/forwarded/
+#	lists-conditionals--assignment-problem/node_modules/fresh/
+#	lists-conditionals--assignment-problem/node_modules/fs-extra/
+#	lists-conditionals--assignment-problem/node_modules/fs.realpath/
+#	lists-conditionals--assignment-problem/node_modules/function-bind/
+#	lists-conditionals--assignment-problem/node_modules/functional-red-black-tree/
+#	lists-conditionals--assignment-problem/node_modules/get-caller-file/
+#	lists-conditionals--assignment-problem/node_modules/get-stdin/
+#	lists-conditionals--assignment-problem/node_modules/get-stream/
+#	lists-conditionals--assignment-problem/node_modules/getpass/
+#	lists-conditionals--assignment-problem/node_modules/glob-base/
+#	lists-conditionals--assignment-problem/node_modules/glob-parent/
+#	lists-conditionals--assignment-problem/node_modules/glob/
+#	lists-conditionals--assignment-problem/node_modules/global-modules/
+#	lists-conditionals--assignment-problem/node_modules/global-prefix/
+#	lists-conditionals--assignment-problem/node_modules/globals/
+#	lists-conditionals--assignment-problem/node_modules/globby/
+#	lists-conditionals--assignment-problem/node_modules/got/
+#	lists-conditionals--assignment-problem/node_modules/graceful-fs/
+#	lists-conditionals--assignment-problem/node_modules/growly/
+#	lists-conditionals--assignment-problem/node_modules/gzip-size/
+#	lists-conditionals--assignment-problem/node_modules/handle-thing/
+#	lists-conditionals--assignment-problem/node_modules/handlebars/
+#	lists-conditionals--assignment-problem/node_modules/har-schema/
+#	lists-conditionals--assignment-problem/node_modules/har-validator/
+#	lists-conditionals--assignment-problem/node_modules/has-ansi/
+#	lists-conditionals--assignment-problem/node_modules/has-flag/
+#	lists-conditionals--assignment-problem/node_modules/has/
+#	lists-conditionals--assignment-problem/node_modules/hash-base/
+#	lists-conditionals--assignment-problem/node_modules/hash.js/
+#	lists-conditionals--assignment-problem/node_modules/hawk/
+#	lists-conditionals--assignment-problem/node_modules/he/
+#	lists-conditionals--assignment-problem/node_modules/hmac-drbg/
+#	lists-conditionals--assignment-problem/node_modules/hoek/
+#	lists-conditionals--assignment-problem/node_modules/home-or-tmp/
+#	lists-conditionals--assignment-problem/node_modules/homedir-polyfill/
+#	lists-conditionals--assignment-problem/node_modules/hosted-git-info/
+#	lists-conditionals--assignment-problem/node_modules/hpack.js/
+#	lists-conditionals--assignment-problem/node_modules/html-comment-regex/
+#	lists-conditionals--assignment-problem/node_modules/html-encoding-sniffer/
+#	lists-conditionals--assignment-problem/node_modules/html-entities/
+#	lists-conditionals--assignment-problem/node_modules/html-minifier/
+#	lists-conditionals--assignment-problem/node_modules/html-webpack-plugin/
+#	lists-conditionals--assignment-problem/node_modules/htmlparser2/
+#	lists-conditionals--assignment-problem/node_modules/http-deceiver/
+#	lists-conditionals--assignment-problem/node_modules/http-errors/
+#	lists-conditionals--assignment-problem/node_modules/http-parser-js/
+#	lists-conditionals--assignment-problem/node_modules/http-proxy-middleware/
+#	lists-conditionals--assignment-problem/node_modules/http-proxy/
+#	lists-conditionals--assignment-problem/node_modules/http-signature/
+#	lists-conditionals--assignment-problem/node_modules/https-browserify/
+#	lists-conditionals--assignment-problem/node_modules/iconv-lite/
+#	lists-conditionals--assignment-problem/node_modules/icss-replace-symbols/
+#	lists-conditionals--assignment-problem/node_modules/icss-utils/
+#	lists-conditionals--assignment-problem/node_modules/ieee754/
+#	lists-conditionals--assignment-problem/node_modules/ignore/
+#	lists-conditionals--assignment-problem/node_modules/imurmurhash/
+#	lists-conditionals--assignment-problem/node_modules/indent-string/
+#	lists-conditionals--assignment-problem/node_modules/indexes-of/
+#	lists-conditionals--assignment-problem/node_modules/indexof/
+#	lists-conditionals--assignment-problem/node_modules/inflight/
+#	lists-conditionals--assignment-problem/node_modules/inherits/
+#	lists-conditionals--assignment-problem/node_modules/ini/
+#	lists-conditionals--assignment-problem/node_modules/inquirer/
+#	lists-conditionals--assignment-problem/node_modules/internal-ip/
+#	lists-conditionals--assignment-problem/node_modules/interpret/
+#	lists-conditionals--assignment-problem/node_modules/invariant/
+#	lists-conditionals--assignment-problem/node_modules/invert-kv/
+#	lists-conditionals--assignment-problem/node_modules/ip/
+#	lists-conditionals--assignment-problem/node_modules/ipaddr.js/
+#	lists-conditionals--assignment-problem/node_modules/is-absolute-url/
+#	lists-conditionals--assignment-problem/node_modules/is-arrayish/
+#	lists-conditionals--assignment-problem/node_modules/is-binary-path/
+#	lists-conditionals--assignment-problem/node_modules/is-buffer/
+#	lists-conditionals--assignment-problem/node_modules/is-builtin-module/
+#	lists-conditionals--assignment-problem/node_modules/is-callable/
+#	lists-conditionals--assignment-problem/node_modules/is-ci/
+#	lists-conditionals--assignment-problem/node_modules/is-date-object/
+#	lists-conditionals--assignment-problem/node_modules/is-directory/
+#	lists-conditionals--assignment-problem/node_modules/is-dotfile/
+#	lists-conditionals--assignment-problem/node_modules/is-equal-shallow/
+#	lists-conditionals--assignment-problem/node_modules/is-extendable/
+#	lists-conditionals--assignment-problem/node_modules/is-extglob/
+#	lists-conditionals--assignment-problem/node_modules/is-finite/
+#	lists-conditionals--assignment-problem/node_modules/is-fullwidth-code-point/
+#	lists-conditionals--assignment-problem/node_modules/is-glob/
+#	lists-conditionals--assignment-problem/node_modules/is-npm/
+#	lists-conditionals--assignment-problem/node_modules/is-number/
+#	lists-conditionals--assignment-problem/node_modules/is-obj/
+#	lists-conditionals--assignment-problem/node_modules/is-path-cwd/
+#	lists-conditionals--assignment-problem/node_modules/is-path-in-cwd/
+#	lists-conditionals--assignment-problem/node_modules/is-path-inside/
+#	lists-conditionals--assignment-problem/node_modules/is-plain-obj/
+#	lists-conditionals--assignment-problem/node_modules/is-posix-bracket/
+#	lists-conditionals--assignment-problem/node_modules/is-primitive/
+#	lists-conditionals--assignment-problem/node_modules/is-promise/
+#	lists-conditionals--assignment-problem/node_modules/is-redirect/
+#	lists-conditionals--assignment-problem/node_modules/is-regex/
+#	lists-conditionals--assignment-problem/node_modules/is-resolvable/
+#	lists-conditionals--assignment-problem/node_modules/is-retry-allowed/
+#	lists-conditionals--assignment-problem/node_modules/is-root/
+#	lists-conditionals--assignment-problem/node_modules/is-stream/
+#	lists-conditionals--assignment-problem/node_modules/is-svg/
+#	lists-conditionals--assignment-problem/node_modules/is-symbol/
+#	lists-conditionals--assignment-problem/node_modules/is-typedarray/
+#	lists-conditionals--assignment-problem/node_modules/is-utf8/
+#	lists-conditionals--assignment-problem/node_modules/is-windows/
+#	lists-conditionals--assignment-problem/node_modules/is-wsl/
+#	lists-conditionals--assignment-problem/node_modules/isarray/
+#	lists-conditionals--assignment-problem/node_modules/isexe/
+#	lists-conditionals--assignment-problem/node_modules/isobject/
+#	lists-conditionals--assignment-problem/node_modules/isomorphic-fetch/
+#	lists-conditionals--assignment-problem/node_modules/isstream/
+#	lists-conditionals--assignment-problem/node_modules/istanbul-api/
+#	lists-conditionals--assignment-problem/node_modules/istanbul-lib-coverage/
+#	lists-conditionals--assignment-problem/node_modules/istanbul-lib-hook/
+#	lists-conditionals--assignment-problem/node_modules/istanbul-lib-instrument/
+#	lists-conditionals--assignment-problem/node_modules/istanbul-lib-report/
+#	lists-conditionals--assignment-problem/node_modules/istanbul-lib-source-maps/
+#	lists-conditionals--assignment-problem/node_modules/istanbul-reports/
+#	lists-conditionals--assignment-problem/node_modules/jest-changed-files/
+#	lists-conditionals--assignment-problem/node_modules/jest-config/
+#	lists-conditionals--assignment-problem/node_modules/jest-diff/
+#	lists-conditionals--assignment-problem/node_modules/jest-docblock/
+#	lists-conditionals--assignment-problem/node_modules/jest-environment-jsdom/
+#	lists-conditionals--assignment-problem/node_modules/jest-environment-node/
+#	lists-conditionals--assignment-problem/node_modules/jest-haste-map/
+#	lists-conditionals--assignment-problem/node_modules/jest-jasmine2/
+#	lists-conditionals--assignment-problem/node_modules/jest-matcher-utils/
+#	lists-conditionals--assignment-problem/node_modules/jest-matchers/
+#	lists-conditionals--assignment-problem/node_modules/jest-message-util/
+#	lists-conditionals--assignment-problem/node_modules/jest-mock/
+#	lists-conditionals--assignment-problem/node_modules/jest-regex-util/
+#	lists-conditionals--assignment-problem/node_modules/jest-resolve-dependencies/
+#	lists-conditionals--assignment-problem/node_modules/jest-resolve/
+#	lists-conditionals--assignment-problem/node_modules/jest-runtime/
+#	lists-conditionals--assignment-problem/node_modules/jest-snapshot/
+#	lists-conditionals--assignment-problem/node_modules/jest-util/
+#	lists-conditionals--assignment-problem/node_modules/jest-validate/
+#	lists-conditionals--assignment-problem/node_modules/jest/
+#	lists-conditionals--assignment-problem/node_modules/js-base64/
+#	lists-conditionals--assignment-problem/node_modules/js-tokens/
+#	lists-conditionals--assignment-problem/node_modules/js-yaml/
+#	lists-conditionals--assignment-problem/node_modules/jsbn/
+#	lists-conditionals--assignment-problem/node_modules/jschardet/
+#	lists-conditionals--assignment-problem/node_modules/jsdom/
+#	lists-conditionals--assignment-problem/node_modules/jsesc/
+#	lists-conditionals--assignment-problem/node_modules/json-loader/
+#	lists-conditionals--assignment-problem/node_modules/json-schema-traverse/
+#	lists-conditionals--assignment-problem/node_modules/json-schema/
+#	lists-conditionals--assignment-problem/node_modules/json-stable-stringify/
+#	lists-conditionals--assignment-problem/node_modules/json-stringify-safe/
+#	lists-conditionals--assignment-problem/node_modules/json3/
+#	lists-conditionals--assignment-problem/node_modules/json5/
+#	lists-conditionals--assignment-problem/node_modules/jsonfile/
+#	lists-conditionals--assignment-problem/node_modules/jsonify/
+#	lists-conditionals--assignment-problem/node_modules/jsprim/
+#	lists-conditionals--assignment-problem/node_modules/jsx-ast-utils/
+#	lists-conditionals--assignment-problem/node_modules/kind-of/
+#	lists-conditionals--assignment-problem/node_modules/klaw/
+#	lists-conditionals--assignment-problem/node_modules/latest-version/
+#	lists-conditionals--assignment-problem/node_modules/lazy-cache/
+#	lists-conditionals--assignment-problem/node_modules/lazy-req/
+#	lists-conditionals--assignment-problem/node_modules/lcid/
+#	lists-conditionals--assignment-problem/node_modules/leven/
+#	lists-conditionals--assignment-problem/node_modules/levn/
+#	lists-conditionals--assignment-problem/node_modules/load-json-file/
+#	lists-conditionals--assignment-problem/node_modules/loader-fs-cache/
+#	lists-conditionals--assignment-problem/node_modules/loader-runner/
+#	lists-conditionals--assignment-problem/node_modules/loader-utils/
+#	lists-conditionals--assignment-problem/node_modules/locate-path/
+#	lists-conditionals--assignment-problem/node_modules/lodash._reinterpolate/
+#	lists-conditionals--assignment-problem/node_modules/lodash.camelcase/
+#	lists-conditionals--assignment-problem/node_modules/lodash.cond/
+#	lists-conditionals--assignment-problem/node_modules/lodash.defaults/
+#	lists-conditionals--assignment-problem/node_modules/lodash.memoize/
+#	lists-conditionals--assignment-problem/node_modules/lodash.template/
+#	lists-conditionals--assignment-problem/node_modules/lodash.templatesettings/
+#	lists-conditionals--assignment-problem/node_modules/lodash.uniq/
+#	lists-conditionals--assignment-problem/node_modules/lodash/
+#	lists-conditionals--assignment-problem/node_modules/loglevel/
+#	lists-conditionals--assignment-problem/node_modules/longest/
+#	lists-conditionals--assignment-problem/node_modules/loose-envify/
+#	lists-conditionals--assignment-problem/node_modules/loud-rejection/
+#	lists-conditionals--assignment-problem/node_modules/lower-case/
+#	lists-conditionals--assignment-problem/node_modules/lowercase-keys/
+#	lists-conditionals--assignment-problem/node_modules/lru-cache/
+#	lists-conditionals--assignment-problem/node_modules/macaddress/
+#	lists-conditionals--assignment-problem/node_modules/make-dir/
+#	lists-conditionals--assignment-problem/node_modules/makeerror/
+#	lists-conditionals--assignment-problem/node_modules/map-obj/
+#	lists-conditionals--assignment-problem/node_modules/math-expression-evaluator/
+#	lists-conditionals--assignment-problem/node_modules/md5.js/
+#	lists-conditionals--assignment-problem/node_modules/media-typer/
+#	lists-conditionals--assignment-problem/node_modules/mem/
+#	lists-conditionals--assignment-problem/node_modules/memory-fs/
+#	lists-conditionals--assignment-problem/node_modules/meow/
+#	lists-conditionals--assignment-problem/node_modules/merge-descriptors/
+#	lists-conditionals--assignment-problem/node_modules/merge/
+#	lists-conditionals--assignment-problem/node_modules/methods/
+#	lists-conditionals--assignment-problem/node_modules/micromatch/
+#	lists-conditionals--assignment-problem/node_modules/miller-rabin/
+#	lists-conditionals--assignment-problem/node_modules/mime-db/
+#	lists-conditionals--assignment-problem/node_modules/mime-types/
+#	lists-conditionals--assignment-problem/node_modules/mime/
+#	lists-conditionals--assignment-problem/node_modules/mimic-fn/
+#	lists-conditionals--assignment-problem/node_modules/minimalistic-assert/
+#	lists-conditionals--assignment-problem/node_modules/minimalistic-crypto-utils/
+#	lists-conditionals--assignment-problem/node_modules/minimatch/
+#	lists-conditionals--assignment-problem/node_modules/minimist/
+#	lists-conditionals--assignment-problem/node_modules/mkdirp/
+#	lists-conditionals--assignment-problem/node_modules/ms/
+#	lists-conditionals--assignment-problem/node_modules/multicast-dns-service-types/
+#	lists-conditionals--assignment-problem/node_modules/multicast-dns/
+#	lists-conditionals--assignment-problem/node_modules/mute-stream/
+#	lists-conditionals--assignment-problem/node_modules/natural-compare/
+#	lists-conditionals--assignment-problem/node_modules/ncname/
+#	lists-conditionals--assignment-problem/node_modules/negotiator/
+#	lists-conditionals--assignment-problem/node_modules/no-case/
+#	lists-conditionals--assignment-problem/node_modules/node-fetch/
+#	lists-conditionals--assignment-problem/node_modules/node-forge/
+#	lists-conditionals--assignment-problem/node_modules/node-int64/
+#	lists-conditionals--assignment-problem/node_modules/node-libs-browser/
+#	lists-conditionals--assignment-problem/node_modules/node-notifier/
+#	lists-conditionals--assignment-problem/node_modules/node-status-codes/
+#	lists-conditionals--assignment-problem/node_modules/normalize-package-data/
+#	lists-conditionals--assignment-problem/node_modules/normalize-path/
+#	lists-conditionals--assignment-problem/node_modules/normalize-range/
+#	lists-conditionals--assignment-problem/node_modules/normalize-url/
+#	lists-conditionals--assignment-problem/node_modules/npm-run-path/
+#	lists-conditionals--assignment-problem/node_modules/nth-check/
+#	lists-conditionals--assignment-problem/node_modules/num2fraction/
+#	lists-conditionals--assignment-problem/node_modules/number-is-nan/
+#	lists-conditionals--assignment-problem/node_modules/nwmatcher/
+#	lists-conditionals--assignment-problem/node_modules/oauth-sign/
+#	lists-conditionals--assignment-problem/node_modules/object-assign/
+#	lists-conditionals--assignment-problem/node_modules/object-hash/
+#	lists-conditionals--assignment-problem/node_modules/object-keys/
+#	lists-conditionals--assignment-problem/node_modules/object.omit/
+#	lists-conditionals--assignment-problem/node_modules/obuf/
+#	lists-conditionals--assignment-problem/node_modules/on-finished/
+#	lists-conditionals--assignment-problem/node_modules/on-headers/
+#	lists-conditionals--assignment-problem/node_modules/once/
+#	lists-conditionals--assignment-problem/node_modules/onetime/
+#	lists-conditionals--assignment-problem/node_modules/opn/
+#	lists-conditionals--assignment-problem/node_modules/optimist/
+#	lists-conditionals--assignment-problem/node_modules/optionator/
+#	lists-conditionals--assignment-problem/node_modules/original/
+#	lists-conditionals--assignment-problem/node_modules/os-browserify/
+#	lists-conditionals--assignment-problem/node_modules/os-homedir/
+#	lists-conditionals--assignment-problem/node_modules/os-locale/
+#	lists-conditionals--assignment-problem/node_modules/os-tmpdir/
+#	lists-conditionals--assignment-problem/node_modules/osenv/
+#	lists-conditionals--assignment-problem/node_modules/p-finally/
+#	lists-conditionals--assignment-problem/node_modules/p-limit/
+#	lists-conditionals--assignment-problem/node_modules/p-locate/
+#	lists-conditionals--assignment-problem/node_modules/p-map/
+#	lists-conditionals--assignment-problem/node_modules/package-json/
+#	lists-conditionals--assignment-problem/node_modules/pako/
+#	lists-conditionals--assignment-problem/node_modules/param-case/
+#	lists-conditionals--assignment-problem/node_modules/parse-asn1/
+#	lists-conditionals--assignment-problem/node_modules/parse-glob/
+#	lists-conditionals--assignment-problem/node_modules/parse-json/
+#	lists-conditionals--assignment-problem/node_modules/parse-passwd/
+#	lists-conditionals--assignment-problem/node_modules/parse5/
+#	lists-conditionals--assignment-problem/node_modules/parseurl/
+#	lists-conditionals--assignment-problem/node_modules/path-browserify/
+#	lists-conditionals--assignment-problem/node_modules/path-exists/
+#	lists-conditionals--assignment-problem/node_modules/path-is-absolute/
+#	lists-conditionals--assignment-problem/node_modules/path-is-inside/
+#	lists-conditionals--assignment-problem/node_modules/path-key/
+#	lists-conditionals--assignment-problem/node_modules/path-parse/
+#	lists-conditionals--assignment-problem/node_modules/path-to-regexp/
+#	lists-conditionals--assignment-problem/node_modules/path-type/
+#	lists-conditionals--assignment-problem/node_modules/pbkdf2/
+#	lists-conditionals--assignment-problem/node_modules/performance-now/
+#	lists-conditionals--assignment-problem/node_modules/pify/
+#	lists-conditionals--assignment-problem/node_modules/pinkie-promise/
+#	lists-conditionals--assignment-problem/node_modules/pinkie/
+#	lists-conditionals--assignment-problem/node_modules/pkg-dir/
+#	lists-conditionals--assignment-problem/node_modules/pluralize/
+#	lists-conditionals--assignment-problem/node_modules/portfinder/
+#	lists-conditionals--assignment-problem/node_modules/postcss-calc/
+#	lists-conditionals--assignment-problem/node_modules/postcss-colormin/
+#	lists-conditionals--assignment-problem/node_modules/postcss-convert-values/
+#	lists-conditionals--assignment-problem/node_modules/postcss-discard-comments/
+#	lists-conditionals--assignment-problem/node_modules/postcss-discard-duplicates/
+#	lists-conditionals--assignment-problem/node_modules/postcss-discard-empty/
+#	lists-conditionals--assignment-problem/node_modules/postcss-discard-overridden/
+#	lists-conditionals--assignment-problem/node_modules/postcss-discard-unused/
+#	lists-conditionals--assignment-problem/node_modules/postcss-filter-plugins/
+#	lists-conditionals--assignment-problem/node_modules/postcss-flexbugs-fixes/
+#	lists-conditionals--assignment-problem/node_modules/postcss-load-config/
+#	lists-conditionals--assignment-problem/node_modules/postcss-load-options/
+#	lists-conditionals--assignment-problem/node_modules/postcss-load-plugins/
+#	lists-conditionals--assignment-problem/node_modules/postcss-loader/
+#	lists-conditionals--assignment-problem/node_modules/postcss-merge-idents/
+#	lists-conditionals--assignment-problem/node_modules/postcss-merge-longhand/
+#	lists-conditionals--assignment-problem/node_modules/postcss-merge-rules/
+#	lists-conditionals--assignment-problem/node_modules/postcss-message-helpers/
+#	lists-conditionals--assignment-problem/node_modules/postcss-minify-font-values/
+#	lists-conditionals--assignment-problem/node_modules/postcss-minify-gradients/
+#	lists-conditionals--assignment-problem/node_modules/postcss-minify-params/
+#	lists-conditionals--assignment-problem/node_modules/postcss-minify-selectors/
+#	lists-conditionals--assignment-problem/node_modules/postcss-modules-extract-imports/
+#	lists-conditionals--assignment-problem/node_modules/postcss-modules-local-by-default/
+#	lists-conditionals--assignment-problem/node_modules/postcss-modules-scope/
+#	lists-conditionals--assignment-problem/node_modules/postcss-modules-values/
+#	lists-conditionals--assignment-problem/node_modules/postcss-normalize-charset/
+#	lists-conditionals--assignment-problem/node_modules/postcss-normalize-url/
+#	lists-conditionals--assignment-problem/node_modules/postcss-ordered-values/
+#	lists-conditionals--assignment-problem/node_modules/postcss-reduce-idents/
+#	lists-conditionals--assignment-problem/node_modules/postcss-reduce-initial/
+#	lists-conditionals--assignment-problem/node_modules/postcss-reduce-transforms/
+#	lists-conditionals--assignment-problem/node_modules/postcss-selector-parser/
+#	lists-conditionals--assignment-problem/node_modules/postcss-svgo/
+#	lists-conditionals--assignment-problem/node_modules/postcss-unique-selectors/
+#	lists-conditionals--assignment-problem/node_modules/postcss-value-parser/
+#	lists-conditionals--assignment-problem/node_modules/postcss-zindex/
+#	lists-conditionals--assignment-problem/node_modules/postcss/
+#	lists-conditionals--assignment-problem/node_modules/prelude-ls/
+#	lists-conditionals--assignment-problem/node_modules/prepend-http/
+#	lists-conditionals--assignment-problem/node_modules/preserve/
+#	lists-conditionals--assignment-problem/node_modules/pretty-bytes/
+#	lists-conditionals--assignment-problem/node_modules/pretty-error/
+#	lists-conditionals--assignment-problem/node_modules/pretty-format/
+#	lists-conditionals--assignment-problem/node_modules/private/
+#	lists-conditionals--assignment-problem/node_modules/process-nextick-args/
+#	lists-conditionals--assignment-problem/node_modules/process/
+#	lists-conditionals--assignment-problem/node_modules/progress/
+#	lists-conditionals--assignment-problem/node_modules/promise/
+#	lists-conditionals--assignment-problem/node_modules/prop-types/
+#	lists-conditionals--assignment-problem/node_modules/proxy-addr/
+#	lists-conditionals--assignment-problem/node_modules/prr/
+#	lists-conditionals--assignment-problem/node_modules/pseudomap/
+#	lists-conditionals--assignment-problem/node_modules/public-encrypt/
+#	lists-conditionals--assignment-problem/node_modules/punycode/
+#	lists-conditionals--assignment-problem/node_modules/q/
+#	lists-conditionals--assignment-problem/node_modules/qs/
+#	lists-conditionals--assignment-problem/node_modules/query-string/
+#	lists-conditionals--assignment-problem/node_modules/querystring-es3/
+#	lists-conditionals--assignment-problem/node_modules/querystring/
+#	lists-conditionals--assignment-problem/node_modules/querystringify/
+#	lists-conditionals--assignment-problem/node_modules/randomatic/
+#	lists-conditionals--assignment-problem/node_modules/randombytes/
+#	lists-conditionals--assignment-problem/node_modules/range-parser/
+#	lists-conditionals--assignment-problem/node_modules/rc/
+#	lists-conditionals--assignment-problem/node_modules/react-dev-utils/
+#	lists-conditionals--assignment-problem/node_modules/react-dom/
+#	lists-conditionals--assignment-problem/node_modules/react-error-overlay/
+#	lists-conditionals--assignment-problem/node_modules/react-scripts/
+#	lists-conditionals--assignment-problem/node_modules/react/
+#	lists-conditionals--assignment-problem/node_modules/read-all-stream/
+#	lists-conditionals--assignment-problem/node_modules/read-pkg-up/
+#	lists-conditionals--assignment-problem/node_modules/read-pkg/
+#	lists-conditionals--assignment-problem/node_modules/readable-stream/
+#	lists-conditionals--assignment-problem/node_modules/readdirp/
+#	lists-conditionals--assignment-problem/node_modules/recursive-readdir/
+#	lists-conditionals--assignment-problem/node_modules/redent/
+#	lists-conditionals--assignment-problem/node_modules/reduce-css-calc/
+#	lists-conditionals--assignment-problem/node_modules/reduce-function-call/
+#	lists-conditionals--assignment-problem/node_modules/regenerate/
+#	lists-conditionals--assignment-problem/node_modules/regenerator-runtime/
+#	lists-conditionals--assignment-problem/node_modules/regenerator-transform/
+#	lists-conditionals--assignment-problem/node_modules/regex-cache/
+#	lists-conditionals--assignment-problem/node_modules/regexpu-core/
+#	lists-conditionals--assignment-problem/node_modules/registry-auth-token/
+#	lists-conditionals--assignment-problem/node_modules/registry-url/
+#	lists-conditionals--assignment-problem/node_modules/regjsgen/
+#	lists-conditionals--assignment-problem/node_modules/regjsparser/
+#	lists-conditionals--assignment-problem/node_modules/relateurl/
+#	lists-conditionals--assignment-problem/node_modules/remove-trailing-separator/
+#	lists-conditionals--assignment-problem/node_modules/renderkid/
+#	lists-conditionals--assignment-problem/node_modules/repeat-element/
+#	lists-conditionals--assignment-problem/node_modules/repeat-string/
+#	lists-conditionals--assignment-problem/node_modules/repeating/
+#	lists-conditionals--assignment-problem/node_modules/request/
+#	lists-conditionals--assignment-problem/node_modules/require-directory/
+#	lists-conditionals--assignment-problem/node_modules/require-from-string/
+#	lists-conditionals--assignment-problem/node_modules/require-main-filename/
+#	lists-conditionals--assignment-problem/node_modules/require-uncached/
+#	lists-conditionals--assignment-problem/node_modules/requires-port/
+#	lists-conditionals--assignment-problem/node_modules/resolve-dir/
+#	lists-conditionals--assignment-problem/node_modules/resolve-from/
+#	lists-conditionals--assignment-problem/node_modules/resolve/
+#	lists-conditionals--assignment-problem/node_modules/restore-cursor/
+#	lists-conditionals--assignment-problem/node_modules/right-align/
+#	lists-conditionals--assignment-problem/node_modules/rimraf/
+#	lists-conditionals--assignment-problem/node_modules/ripemd160/
+#	lists-conditionals--assignment-problem/node_modules/run-async/
+#	lists-conditionals--assignment-problem/node_modules/rx-lite-aggregates/
+#	lists-conditionals--assignment-problem/node_modules/rx-lite/
+#	lists-conditionals--assignment-problem/node_modules/safe-buffer/
+#	lists-conditionals--assignment-problem/node_modules/sane/
+#	lists-conditionals--assignment-problem/node_modules/sax/
+#	lists-conditionals--assignment-problem/node_modules/schema-utils/
+#	lists-conditionals--assignment-problem/node_modules/select-hose/
+#	lists-conditionals--assignment-problem/node_modules/selfsigned/
+#	lists-conditionals--assignment-problem/node_modules/semver-diff/
+#	lists-conditionals--assignment-problem/node_modules/semver/
+#	lists-conditionals--assignment-problem/node_modules/send/
+#	lists-conditionals--assignment-problem/node_modules/serve-index/
+#	lists-conditionals--assignment-problem/node_modules/serve-static/
+#	lists-conditionals--assignment-problem/node_modules/serviceworker-cache-polyfill/
+#	lists-conditionals--assignment-problem/node_modules/set-blocking/
+#	lists-conditionals--assignment-problem/node_modules/set-immediate-shim/
+#	lists-conditionals--assignment-problem/node_modules/setimmediate/
+#	lists-conditionals--assignment-problem/node_modules/setprototypeof/
+#	lists-conditionals--assignment-problem/node_modules/settle-promise/
+#	lists-conditionals--assignment-problem/node_modules/sha.js/
+#	lists-conditionals--assignment-problem/node_modules/shebang-command/
+#	lists-conditionals--assignment-problem/node_modules/shebang-regex/
+#	lists-conditionals--assignment-problem/node_modules/shell-quote/
+#	lists-conditionals--assignment-problem/node_modules/shellwords/
+#	lists-conditionals--assignment-problem/node_modules/signal-exit/
+#	lists-conditionals--assignment-problem/node_modules/slash/
+#	lists-conditionals--assignment-problem/node_modules/slice-ansi/
+#	lists-conditionals--assignment-problem/node_modules/slide/
+#	lists-conditionals--assignment-problem/node_modules/sntp/
+#	lists-conditionals--assignment-problem/node_modules/sockjs-client/
+#	lists-conditionals--assignment-problem/node_modules/sockjs/
+#	lists-conditionals--assignment-problem/node_modules/sort-keys/
+#	lists-conditionals--assignment-problem/node_modules/source-list-map/
+#	lists-conditionals--assignment-problem/node_modules/source-map-support/
+#	lists-conditionals--assignment-problem/node_modules/source-map/
+#	lists-conditionals--assignment-problem/node_modules/spdx-correct/
+#	lists-conditionals--assignment-problem/node_modules/spdx-expression-parse/
+#	lists-conditionals--assignment-problem/node_modules/spdx-license-ids/
+#	lists-conditionals--assignment-problem/node_modules/spdy-transport/
+#	lists-conditionals--assignment-problem/node_modules/spdy/
+#	lists-conditionals--assignment-problem/node_modules/sprintf-js/
+#	lists-conditionals--assignment-problem/node_modules/sshpk/
+#	lists-conditionals--assignment-problem/node_modules/statuses/
+#	lists-conditionals--assignment-problem/node_modules/stream-browserify/
+#	lists-conditionals--assignment-problem/node_modules/stream-http/
+#	lists-conditionals--assignment-problem/node_modules/strict-uri-encode/
+#	lists-conditionals--assignment-problem/node_modules/string-length/
+#	lists-conditionals--assignment-problem/node_modules/string-width/
+#	lists-conditionals--assignment-problem/node_modules/string_decoder/
+#	lists-conditionals--assignment-problem/node_modules/stringstream/
+#	lists-conditionals--assignment-problem/node_modules/strip-ansi/
+#	lists-conditionals--assignment-problem/node_modules/strip-bom/
+#	lists-conditionals--assignment-problem/node_modules/strip-eof/
+#	lists-conditionals--assignment-problem/node_modules/strip-indent/
+#	lists-conditionals--assignment-problem/node_modules/strip-json-comments/
+#	lists-conditionals--assignment-problem/node_modules/style-loader/
+#	lists-conditionals--assignment-problem/node_modules/supports-color/
+#	lists-conditionals--assignment-problem/node_modules/svgo/
+#	lists-conditionals--assignment-problem/node_modules/sw-precache-webpack-plugin/
+#	lists-conditionals--assignment-problem/node_modules/sw-precache/
+#	lists-conditionals--assignment-problem/node_modules/sw-toolbox/
+#	lists-conditionals--assignment-problem/node_modules/symbol-tree/
+#	lists-conditionals--assignment-problem/node_modules/table/
+#	lists-conditionals--assignment-problem/node_modules/tapable/
+#	lists-conditionals--assignment-problem/node_modules/test-exclude/
+#	lists-conditionals--assignment-problem/node_modules/text-table/
+#	lists-conditionals--assignment-problem/node_modules/throat/
+#	lists-conditionals--assignment-problem/node_modules/through/
+#	lists-conditionals--assignment-problem/node_modules/thunky/
+#	lists-conditionals--assignment-problem/node_modules/time-stamp/
+#	lists-conditionals--assignment-problem/node_modules/timed-out/
+#	lists-conditionals--assignment-problem/node_modules/timers-browserify/
+#	lists-conditionals--assignment-problem/node_modules/tmp/
+#	lists-conditionals--assignment-problem/node_modules/tmpl/
+#	lists-conditionals--assignment-problem/node_modules/to-arraybuffer/
+#	lists-conditionals--assignment-problem/node_modules/to-fast-properties/
+#	lists-conditionals--assignment-problem/node_modules/toposort/
+#	lists-conditionals--assignment-problem/node_modules/tough-cookie/
+#	lists-conditionals--assignment-problem/node_modules/tr46/
+#	lists-conditionals--assignment-problem/node_modules/trim-newlines/
+#	lists-conditionals--assignment-problem/node_modules/trim-right/
+#	lists-conditionals--assignment-problem/node_modules/tryit/
+#	lists-conditionals--assignment-problem/node_modules/tty-browserify/
+#	lists-conditionals--assignment-problem/node_modules/tunnel-agent/
+#	lists-conditionals--assignment-problem/node_modules/tweetnacl/
+#	lists-conditionals--assignment-problem/node_modules/type-check/
+#	lists-conditionals--assignment-problem/node_modules/type-is/
+#	lists-conditionals--assignment-problem/node_modules/typedarray/
+#	lists-conditionals--assignment-problem/node_modules/ua-parser-js/
+#	lists-conditionals--assignment-problem/node_modules/uglify-js/
+#	lists-conditionals--assignment-problem/node_modules/uglify-to-browserify/
+#	lists-conditionals--assignment-problem/node_modules/uglifyjs-webpack-plugin/
+#	lists-conditionals--assignment-problem/node_modules/uniq/
+#	lists-conditionals--assignment-problem/node_modules/uniqid/
+#	lists-conditionals--assignment-problem/node_modules/uniqs/
+#	lists-conditionals--assignment-problem/node_modules/universalify/
+#	lists-conditionals--assignment-problem/node_modules/unpipe/
+#	lists-conditionals--assignment-problem/node_modules/unzip-response/
+#	lists-conditionals--assignment-problem/node_modules/update-notifier/
+#	lists-conditionals--assignment-problem/node_modules/upper-case/
+#	lists-conditionals--assignment-problem/node_modules/urijs/
+#	lists-conditionals--assignment-problem/node_modules/url-loader/
+#	lists-conditionals--assignment-problem/node_modules/url-parse-lax/
+#	lists-conditionals--assignment-problem/node_modules/url-parse/
+#	lists-conditionals--assignment-problem/node_modules/url/
+#	lists-conditionals--assignment-problem/node_modules/util-deprecate/
+#	lists-conditionals--assignment-problem/node_modules/util/
+#	lists-conditionals--assignment-problem/node_modules/utila/
+#	lists-conditionals--assignment-problem/node_modules/utils-merge/
+#	lists-conditionals--assignment-problem/node_modules/uuid/
+#	lists-conditionals--assignment-problem/node_modules/validate-npm-package-license/
+#	lists-conditionals--assignment-problem/node_modules/vary/
+#	lists-conditionals--assignment-problem/node_modules/vendors/
+#	lists-conditionals--assignment-problem/node_modules/verror/
+#	lists-conditionals--assignment-problem/node_modules/vm-browserify/
+#	lists-conditionals--assignment-problem/node_modules/walker/
+#	lists-conditionals--assignment-problem/node_modules/watch/
+#	lists-conditionals--assignment-problem/node_modules/watchpack/
+#	lists-conditionals--assignment-problem/node_modules/wbuf/
+#	lists-conditionals--assignment-problem/node_modules/webidl-conversions/
+#	lists-conditionals--assignment-problem/node_modules/webpack-dev-middleware/
+#	lists-conditionals--assignment-problem/node_modules/webpack-dev-server/
+#	lists-conditionals--assignment-problem/node_modules/webpack-manifest-plugin/
+#	lists-conditionals--assignment-problem/node_modules/webpack-sources/
+#	lists-conditionals--assignment-problem/node_modules/webpack/
+#	lists-conditionals--assignment-problem/node_modules/websocket-driver/
+#	lists-conditionals--assignment-problem/node_modules/websocket-extensions/
+#	lists-conditionals--assignment-problem/node_modules/whatwg-encoding/
+#	lists-conditionals--assignment-problem/node_modules/whatwg-fetch/
+#	lists-conditionals--assignment-problem/node_modules/whatwg-url/
+#	lists-conditionals--assignment-problem/node_modules/whet.extend/
+#	lists-conditionals--assignment-problem/node_modules/which-module/
+#	lists-conditionals--assignment-problem/node_modules/which/
+#	lists-conditionals--assignment-problem/node_modules/widest-line/
+#	lists-conditionals--assignment-problem/node_modules/window-size/
+#	lists-conditionals--assignment-problem/node_modules/wordwrap/
+#	lists-conditionals--assignment-problem/node_modules/worker-farm/
+#	lists-conditionals--assignment-problem/node_modules/wrap-ansi/
+#	lists-conditionals--assignment-problem/node_modules/wrappy/
+#	lists-conditionals--assignment-problem/node_modules/write-file-atomic/
+#	lists-conditionals--assignment-problem/node_modules/write/
+#	lists-conditionals--assignment-problem/node_modules/xdg-basedir/
+#	lists-conditionals--assignment-problem/node_modules/xml-char-classes/
+#	lists-conditionals--assignment-problem/node_modules/xml-name-validator/
+#	lists-conditionals--assignment-problem/node_modules/xtend/
+#	lists-conditionals--assignment-problem/node_modules/y18n/
+#	lists-conditionals--assignment-problem/node_modules/yallist/
+#	lists-conditionals--assignment-problem/node_modules/yargs-parser/
+#	lists-conditionals--assignment-problem/node_modules/yargs/
+#
+
