@@ -6,7 +6,8 @@ import Charcomponent from './Charcomponent/Charcomponent'
 class App extends Component {
 
   state = {
-    count: 0
+    count: 0,
+    inputValue: ''
   }
     
   inputchange = (event) => {  
@@ -14,14 +15,20 @@ class App extends Component {
     this.setState({count: arr2.length})
   }
 
+  updateInputValue = (evt) => {
+    this.setState({
+      inputValue: evt.target.value
+    });
+  }
+
   render() {
     return (
       <div className="App">
         <ol>
-          <input onKeyUp={this.inputchange} type="text"/>
+          <input onKeyUp={this.inputchange} onChange={evt => this.updateInputValue(evt)} type="text"/>
           <p>{this.state.count}</p>
            <Validation length={this.state.count}/>
-           <Charcomponent/>
+           <Charcomponent letter={this.state.inputValue}/>
          
           
           
