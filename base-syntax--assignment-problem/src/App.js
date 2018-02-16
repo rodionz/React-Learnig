@@ -5,19 +5,20 @@ import Output from './UserOutput/Output'
 
 class App extends Component {
 
- state = {user : 'Gennadiy'}
+ state =  {
+   userName : 'Gennadiy'}
 
  stateHandler = (event) => { 
-  this.setState = ({user = event.target.value});
-   console.log(this.state.user);
+  this.setState({userName : event.target.value});
  }
 
   render() {
     return (
       <div className="App">
-      <Input change={this.stateHandler}/>
-       <Output user={this.state.user} /> 
-       <Output user={this.state.user}/> 
+      <Input change={this.stateHandler}
+       currentName={this.state.userName} />
+       <Output userName={this.state.userName} /> 
+       <Output userName={this.state.userName}/> 
        <Output/> 
       </div>
     );
